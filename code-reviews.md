@@ -85,7 +85,7 @@
 
 ---
 
-### ⚡ Review Speed
+###  Review Speed
 - Reviews should be completed quickly  
 - Delays create bottlenecks and slow development  
 
@@ -156,4 +156,3 @@ A good pull request should include:
 - Screenshots or examples (if relevant)  
 - Notes on testing performed  
 
- This helps reviewers understand the change quickly and review more effectively  
