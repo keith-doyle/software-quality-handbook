@@ -64,18 +64,17 @@ l
 ---
 
 ##  Source 5
-**Title:** Scaling Code Review at Stripe  
-**Author / Site:** Stripe  
-**Link:** https://stripe.com/blog/codereview  
+**Title:** Code Review Guidelines  
+**Author / Site:** Microsoft  
+**Link:** https://learn.microsoft.com/en-us/azure/devops/repos/git/reviews  
 
 **Key Points:**
-- Fast feedback loops improve development speed  
-- Strong review culture improves consistency  
-- Communication is key in reviews  
-- Automation supports scalability  
+- Keep pull requests small and focused  
+- Provide clear descriptions and context  
+- Review code for functionality, readability, and maintainability  
+- Encourage constructive and respectful feedback  
 
-**Useful Theme:** Team culture and scalability  
-
+**Useful Theme:** Practical review process and standards  
 ---
 
 ##  Common Themes (Grouped)
