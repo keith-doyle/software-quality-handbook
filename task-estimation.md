@@ -1,5 +1,7 @@
 # Task Estimation in Scrum
 
+![Task Estimation Flow](images/estimation-flow.png)
+
 ## Purpose of this section
 
 In a startup, poor task estimation can cause overloaded sprints, unpredictable delivery, team frustration, and rushed work that could lead to increased chance of defects reaching production.

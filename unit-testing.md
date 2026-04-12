@@ -1,5 +1,7 @@
 # Unit Testing and Test Coverage
 
+![Testing Structure](images/testing-structure.png)
+
 ## Purpose of this section
 
 Unit testing helps a startup catch problems early, reduce defects in production, and improve confidence when making changes to the codebase.
