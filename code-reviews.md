@@ -64,17 +64,17 @@ l
 ---
 
 ##  Source 5
-**Title:** Code Review Guidelines  
-**Author / Site:** Microsoft  
-**Link:** https://learn.microsoft.com/en-us/azure/devops/repos/git/reviews  
+**Title:** Code Reviews: Just Do It  
+**Author / Site:** :contentReference[oaicite:0]{index=0} (Coding Horror)  
+**Link:** https://blog.codinghorror.com/code-reviews-just-do-it/  
 
 **Key Points:**
-- Keep pull requests small and focused  
-- Provide clear descriptions and context  
-- Review code for functionality, readability, and maintainability  
-- Encourage constructive and respectful feedback  
+- Code reviews significantly reduce defects in real projects  
+- Even lightweight reviews improve code quality  
+- Reviewing code regularly builds team knowledge  
+- Code reviews are one of the most effective quality practices  
 
-**Useful Theme:** Practical review process and standards  
+**Useful Theme:** Real-world impact and developer experience  
 ---
 
 ##  Common Themes (Grouped)
